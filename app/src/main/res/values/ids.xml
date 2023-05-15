@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button1" type="id" />
+    <item name="tvEmail" type="id" />
+    <item name="tvName" type="id" />
+    <item name="imageView1" type="id" />
+    <item name="toastText1" type="id" />
+    <item name="imageView2" type="id" />
+</resources>
